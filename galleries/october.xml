@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+	
+	<config
+		folder="pix/october/"
+		enable_fullscreen="true"
+		galaxy_background="true"
+		show_tooltip="false"
+		radius="150"
+		default_zoom="6"		
+
+		thumbnail_width="100"
+		thumbnail_height="100"
+		thumbnail_back_alpha="0.25"
+		
+		photo_border_size="10"
+		photo_border_color="#FFFFFF"
+		
+		close_button="true"
+		previous_button="true"
+		next_button="true"
+		
+		description="false"
+		description_bg_color="#000000"
+		description_bg_alpha="0.6"
+		css_file="flashmo_210_style.css"
+		tween_duration="0.5">
+	</config>
+	
+	<photo>
+		<thumbnail>s_photo_001.jpg</thumbnail>
+		<filename>photo_001.jpg</filename>
+		<tooltip>Photo Title 01</tooltip>
+		<description><![CDATA[<p class="subtitle">Photo Title 01 goes here</p><p><a href="http://www.flashmo.com/donate" target="_parent">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit. <span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor. Duis nulla diam, posuere ac, varius id, ullamcorper sit amet, libero.</p><p><span class="note">This text is dynamically loaded from the external XML file. This textfield supports HTML and CSS.</span></p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_002.jpg</thumbnail>
+		<filename>photo_002.jpg</filename>
+		<tooltip>Photo Title 02</tooltip>
+		<description><![CDATA[<p class="subtitle">Photo Title 02 goes here</p><p><a href="http://www.flashmo.com/page/1" target="_blank">Fusce quis diam sit</a> amet tortor luctus pellentesque. Donec accumsan urna non elit tristique mattis. <b>Vivamus fermentum</b> orci viverra nisl. In nec magna id ipsum aliquam dictum. Quisque nec nisl.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_003.jpg</thumbnail>
+		<filename>photo_003.jpg</filename>
+		<tooltip>Photo Title 03</tooltip>
+		<description><![CDATA[<p class="subtitle">Photo Title 03 goes here</p><p>In velit urna, <u>convallis id</u>, pharetra in, iaculis sit amet, mi. Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. Etiam et neque. Donec dapibus viverra est.</p><p><span class="note">This text is dynamically loaded from the external XML file. This textfield supports HTML and CSS.</span></p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_004.jpg</thumbnail>
+		<filename>photo_004.jpg</filename>
+		<tooltip>Photo Title 04</tooltip>
+		<description><![CDATA[<p class="subtitle">Photo Title 04 goes here</p><p><a href="http://www.flashmo.com/page/1" target="_blank">Mauris vestibulum felis</a> eget tortor. Praesent mattis varius quam. Vestibulum ullamcorper ipsum nec augue. Vestibulum auctor odio eget ante. Nunc commodo, magna pharetra semper vehicula, dui ligula feugiat elit, et euismod nunc orci ut libero. Etiam sodales massa vel metus. <span class="note">Mauris et elit quis mauris aliquet luctus.</span></p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_005.jpg</thumbnail>
+		<filename>photo_005.jpg</filename>
+		<tooltip>Photo Title 05</tooltip>
+		<description><![CDATA[<p class="subtitle">Photo Title 05 goes here</p><p>Nunc aliquam, dolor vitae sollicitudin lacinia, nibh orci sagittis diam, dignissim sodales dui erat nec eros. Fusce quis enim. <a href="http://www.flashmo.com" target="_parent">Aenean eleifend</a>, neque hendrerit elementum sodales, , sed tempor vitae tellus.</p>]]></description>
+	</photo>
+
+	<photo>
+		<thumbnail>s_photo_006.jpg</thumbnail>
+		<filename>photo_006.jpg</filename>
+		<tooltip>Photo Title 06</tooltip>
+		<description><![CDATA[<p class="subtitle">Photo Title 06 goes here</p><p>Praesent consectetur imperdiet mauris. Suspendisse at pede vel lorem pulvinar laoreet. <a href="http://www.flashmo.com" target="_parent">Donec dapibus</a> viverra est. Pellentesque elementum enim a augue in nisi.</p><p><span class="highlight">Nunc commodo, magna pharetra semper vehicula, dui ligula feugiat elit, et euismod nunc orci ut libero.</span></p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_007.jpg</thumbnail>
+		<filename>photo_007.jpg</filename>
+		<tooltip>Photo Title 07</tooltip>
+		<description><![CDATA[<p class="subtitle">Photo Title 07 goes here</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor. <a href="http://www.flashmo.com/donate" target="_parent">Integer vel sapien quis</a> risus egestas suscipit. Nam lorem tortor, viverra gravida, egestas id, pellentesque in, mi. <span class="note">Suspendisse at nisi nec diam pretium tincidunt.</span></p>]]></description>
+	</photo>
+	
+	<photo>
+		<thumbnail>s_photo_008.jpg</thumbnail>
+		<filename>photo_008.jpg</filename>
+		<tooltip>Photo Title 08</tooltip>
+		<description><![CDATA[<p class="subtitle">Photo Title 08 goes here</p><p><span class="highlight">Quisque at ante sit amet</span> erat laoreet <u>fermentum</u>. Quisque nec nisl. Nam scelerisque cursus dolor. <a href="http://www.flashmo.com/page/1" target="_blank">Integer vel sapien quis</a> risus egestas suscipit. Nam lorem tortor, viverra gravida, egestas id, pellentesque in, mi. Praesent consectetur imperdiet mauris. <span class="note">Suspendisse at nisi nec diam pretium tincidunt.</span></p>]]></description>
+	</photo>
+</photos>

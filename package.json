@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fadeenk/alaakana.com/issues"
   },
-  "homepage": "https://github.com/fadeenk/alaakana.com#readme"
+  "homepage": "https://github.com/fadeenk/alaakana.com#readme",
+  "devDependencies": {
+    "ftp": "^0.3.10"
+  }
 }

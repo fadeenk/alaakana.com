@@ -16,7 +16,7 @@
 <div id="temp_main">
     	<h2>ACTFL OPI TESTER</h2>
         <img src="alaa.jpg" class="float_l"/><p style="margin-left:270px;">Name: Dr. Alaa Kana<br />
-  Wage: $35/hour<br />
+  Wage: $40/hour<br />
   Travel radius: 10 miles<br />
   Cell phone: 619-288-5479<br />
   Address: El Cajon, CA, 92020<br />

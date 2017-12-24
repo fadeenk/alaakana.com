@@ -16,7 +16,10 @@
 <div id="temp_main">
 		<h2>Galleries</h2>
 		<div class="gallery_box">
-       		<a href="galleries/pix/Phd/photo_028.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/Phd/photo_028.jpg" style="width:200px;"></a><a href="galleries/phd.html">Ph.D. Pictures in Jordan</a>
+       		<a href="galleries/pix/startalk/photo_028.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/startalk/photo_028.jpg" style="width:200px;"></a><a href="galleries/phd.html">STARTALK Program Tour at Balboa Park</a>
+        </div>
+        <div class="gallery_box">
+          <a href="galleries/pix/Phd/photo_028.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/Phd/photo_028.jpg" style="width:200px;"></a><a href="galleries/phd.html">Ph.D. Pictures in Jordan</a>
         </div>
         <div class="gallery_box">
             <a href="galleries/pix/baghdad hotel/photo_031.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/baghdad hotel/photo_031.jpg" style="width:200px;"></a>

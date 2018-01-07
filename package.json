@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "deploy": "node deploy",
+    "start": "docker run -dit myphp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

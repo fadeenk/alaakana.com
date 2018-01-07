@@ -15,8 +15,11 @@
 <div id="temp_main_top"></div>
 <div id="temp_main">
 		<h2>Galleries</h2>
-		<div class="gallery_box">
-       		<a href="galleries/pix/startalk/photo_028.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/startalk/photo_028.jpg" style="width:200px;"></a><a href="galleries/phd.html">STARTALK Program Tour at Balboa Park</a>
+		    <div class="gallery_box">
+       		<a href="galleries/pix/startalk/20170728_132121.jpg" rel="lightbox[portfolio]">
+       		  <img src="galleries/pix/startalk/20170728_132121.jpg" style="width:200px;">
+       		</a>
+       		<a href="galleries/startalk.php">STARTALK Program Tour at Balboa Park</a>
         </div>
         <div class="gallery_box">
           <a href="galleries/pix/Phd/photo_028.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/Phd/photo_028.jpg" style="width:200px;"></a><a href="galleries/phd.html">Ph.D. Pictures in Jordan</a>
@@ -25,16 +28,15 @@
             <a href="galleries/pix/baghdad hotel/photo_031.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/baghdad hotel/photo_031.jpg" style="width:200px;"></a>
             <a href="galleries/b_hotel.html">Baghdad Hotel in Iraq</a>
         </div>
-        <div class="gallery_box">
+        <div class="gallery_box no_margin_right">
             <a href="galleries/pix/october/photo_006.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/october/photo_006.jpg" style="width:200px;"></a>
             <a href="galleries/october.html">October 6 Universtiy in Egypt</a>
         </div>
-        <div class="gallery_box no_margin_right">
+        <div class="cleaner"></div>
+        <div class="gallery_box">
             <a href="galleries/pix/ahlea/photo_036.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/ahlea/photo_036.jpg" style="width:200px;"></a>
             <a href="galleries/ahlea.html">AL-Ahliyya Amman University in Jordan</a>
         </div>
-        <div class="cleaner"></div>
-        
         <div class="gallery_box">
        		<a href="galleries/pix/comic con/photo_008.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/comic con/photo_008.jpg" style="width:200px;"></a><a href="galleries/comic con.html">Comic-Con International in San Diego, California</a>
         </div>
@@ -42,17 +44,15 @@
             <a href="galleries/pix/course/photo_007.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/course/photo_007.jpg" style="width:200px;"></a>
             <a href="galleries/course.html">Hotel & Restaurant Management Course in Baghdad Hotel</a>
         </div>
-        <div class="gallery_box">
+        <div class="gallery_box no_margin_right">
             <a href="galleries/pix/c amman/photo_003.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/c amman/photo_003.jpg" style="width:200px;"></a>
             <a href="galleries/c amman.html">Restaurant Management Course in Imperial Palace Hotel in Jordan</a>
         </div>
-        <div class="gallery_box no_margin_right">
+        <div class="cleaner"></div>
+        <div class="gallery_box">
             <a href="galleries/pix/others/photo_003.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/others/photo_003.jpg" style="width:200px;"></a>
             <a href="galleries/others.html">Miscellaneous</a>
-        </div>
-        
-        <div class="cleaner"></div>
-        
+        </div>        
         <div class="gallery_box">
             <a href="galleries/pix/h t/photo_003.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/h t/photo_003.jpg" style="width:200px;"></a>
             <a href="galleries/h t.html">Hilton San Diego Gaslamp Quarter hotel</a>

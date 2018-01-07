@@ -1,8 +1,8 @@
-<script type="text/javascript" src="js/swfobject/swfobject.js"></script>
- <script type="text/javascript" src="js/yetii-min.js"></script>
+<script type="text/javascript" src="/js/swfobject/swfobject.js"></script>
+ <script type="text/javascript" src="/js/yetii-min.js"></script>
  <script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
-<script src="js/jquery-1.10.2.min.js"></script>
-<script src="js/lightbox-2.6.min.js"></script>
+<script src="/js/jquery-1.10.2.min.js"></script>
+<script src="/js/lightbox-2.6.min.js"></script>
 <script type="text/javascript">
   var flashvars = {};
   flashvars.cssSource = "css/piecemaker.css";
@@ -32,8 +32,8 @@ function clearText(field)
 
 
 
-<script type="text/javascript" src="js/jquery.min.js"></script>
-<script type="text/javascript" src="js/ddsmoothmenu.js">
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/ddsmoothmenu.js">
 
 /***********************************************
 * Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)

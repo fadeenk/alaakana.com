@@ -6,6 +6,6 @@
 		$currentPage = substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/")+1);
 		$currentPage = 'href="'.$currentPage.'"';
 		$final = str_replace($currentPage, $currentPage.' class="selected"',$currentPage); //add marked
-		$menu = file_get_contents('inc/menu.inc'); //fetch menu
+		$menu = file_get_contents(__DIR__ .'/menu.inc'); //fetch menu
 		echo (str_replace($currentPage,$final,$menu)); //update menu
 		?>

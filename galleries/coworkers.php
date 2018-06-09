@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>STARTALK Program Tour</title>
+  <title>Coworkers at Gaslamp Hilton Hotel</title>
   <?php include("../inc/meta.inc"); ?>
   <?php include("../inc/style.inc"); ?>
   <?php include("../inc/scripts.inc"); ?>

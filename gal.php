@@ -25,45 +25,45 @@
         </div>
         <div class="gallery_box">
           <a href="galleries/pix/Phd/photo_028.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/Phd/photo_028.jpg" style="width:200px;"></a>
-          <a href="galleries/phd.html">Ph.D. Pictures in Jordan</a>
+          <a href="galleries/phd.php">Ph.D. Pictures in Jordan</a>
         </div>
         <div class="gallery_box no_margin_right">
             <a href="galleries/pix/baghdad hotel/photo_031.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/baghdad hotel/photo_031.jpg" style="width:200px;"></a>
-            <a href="galleries/b_hotel.html">Baghdad Hotel in Iraq</a>
+            <a href="galleries/b_hotel.php">Baghdad Hotel in Iraq</a>
         </div>
         <div class="cleaner"></div>
         <div class="gallery_box">
             <a href="galleries/pix/october/photo_006.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/october/photo_006.jpg" style="width:200px;"></a>
-            <a href="galleries/october.html">October 6 Universtiy in Egypt</a>
+            <a href="galleries/october.php">October 6 Universtiy in Egypt</a>
         </div>
         <div class="gallery_box">
             <a href="galleries/pix/ahlea/photo_036.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/ahlea/photo_036.jpg" style="width:200px;"></a>
-            <a href="galleries/ahlea.html">AL-Ahliyya Amman University in Jordan</a>
+            <a href="galleries/ahlea.php">AL-Ahliyya Amman University in Jordan</a>
         </div>
         <div class="gallery_box">
        		<a href="galleries/pix/comic con/photo_008.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/comic con/photo_008.jpg" style="width:200px;"></a>
-          <a href="galleries/comic con.html">Comic-Con International in San Diego, California</a>
+          <a href="galleries/comic con.php">Comic-Con International in San Diego, California</a>
         </div>
         <div class="gallery_box no_margin_right">
             <a href="galleries/pix/course/photo_007.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/course/photo_007.jpg" style="width:200px;"></a>
-            <a href="galleries/course.html">Hotel & Restaurant Management Course in Baghdad Hotel</a>
+            <a href="galleries/course.php">Hotel & Restaurant Management Course in Baghdad Hotel</a>
         </div>
         <div class="cleaner"></div>
         <div class="gallery_box">
             <a href="galleries/pix/c amman/photo_003.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/c amman/photo_003.jpg" style="width:200px;"></a>
-            <a href="galleries/c amman.html">Restaurant Management Course in Imperial Palace Hotel in Jordan</a>
+            <a href="galleries/c amman.php">Restaurant Management Course in Imperial Palace Hotel in Jordan</a>
         </div>
         <div class="gallery_box">
             <a href="galleries/pix/others/photo_003.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/others/photo_003.jpg" style="width:200px;"></a>
-            <a href="galleries/others.html">Miscellaneous</a>
+            <a href="galleries/others.php">Miscellaneous</a>
         </div>        
         <div class="gallery_box">
             <a href="galleries/pix/h t/photo_003.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/h t/photo_003.jpg" style="width:200px;"></a>
-            <a href="galleries/h t.html">Hilton San Diego Gaslamp Quarter hotel</a>
+            <a href="galleries/h t.php">Hilton San Diego Gaslamp Quarter hotel</a>
         </div>
         <div class="gallery_box no_margin_right">
             <a href="galleries/pix/tc/photo_003.jpg" rel="lightbox[portfolio]"><img src="galleries/pix/tc/photo_003.jpg" style="width:200px;"></a>
-            <a href="galleries/tc.html">Practical Training Courses in Arena Hotel in Jordan</a>
+            <a href="galleries/tc.php">Practical Training Courses in Arena Hotel in Jordan</a>
         </div>
     
     <div class="cleaner"></div>

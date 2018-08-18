@@ -29,6 +29,9 @@
             <li><a href="http://www.ahla.com" target="_new">American Hotel & Lodging Association</a></li>
             <li><a href="http://www.library.cornell.edu" target="_new">Cornel University Library</a></li>
             <li><a href="http://www2.unwto.org" target="_new">World tourism Organization UNWTO</a></li>
+            <li><a href="https://www.actfl.org" target="_new">American Conuncil on the teaching of foreign languages</a></li>
+            <li><a href="https://www.cuyamaca.edu/" target="_new">Cuyamaca College</a></li>
+            <li><a href="http://www.aataweb.org/" target="_new">American Association of Teachers of Arabic</a></li>
         </ul>
 </div> <!-- END of main -->
 <?php include("inc/footer.html"); ?>

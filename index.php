@@ -12,13 +12,19 @@
 	<?php include("inc/header.inc"); ?>
 </div>
 
-<div id="temp_middle_wrapper">
-	<div id="temp_middle">
-        <div id="piecemaker">
-          <p>This template is created by <a href="http://mrkannah.com/">Fadee Kannah</a>.</p>
-        </div>
-	</div>
-</div> <!-- END of slider -->
+<div class="carousel" data-flickity='{ "setGallerySize": false, "percentPosition": false, "wrapAround": true, "autoPlay": 1500 }'>
+  <div class="carousel-cell"><img src="contents/6.jpg" /></div>		
+  <div class="carousel-cell"><img src="contents/9.jpg" /></div>
+  <div class="carousel-cell"><img src="contents/4.jpg" /></div>
+  <div class="carousel-cell"><img src="contents/2.jpg" /></div>
+  <div class="carousel-cell"><img src="contents/1.jpg" /></div>
+  <div class="carousel-cell"><img src="contents/5.jpg" /></div>
+  <div class="carousel-cell"><img src="contents/3.jpg" /></div>
+  <div class="carousel-cell"><img src="contents/8.jpg" /></div>
+  <div class="carousel-cell"><img src="contents/7.jpg" /></div>
+</div>
+
+<!-- END of slider -->
 
 <div id="temp_main_top"></div>
 <div id="temp_main">

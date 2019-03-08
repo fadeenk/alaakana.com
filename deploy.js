@@ -58,7 +58,7 @@ function connect() {
     ftpConnection.connect({
       host: 'files.000webhost.com',
       user: 'alaakana',
-      password: 'alaakana2017'
+      password: 'n9yfm7TMYeVFTzrQJw78'
     });
   });
 }

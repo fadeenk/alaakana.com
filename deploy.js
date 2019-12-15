@@ -65,9 +65,13 @@ function connect() {
 
 function upload(file) {
   return new Promise((resolve, reject) => {
-    ftpConnection.put(file, `/public_html/${file}`, (err) => {
-      if (err) return reject({type: 'upload', file, err});
-      return resolve(console.log(`${file} was uploaded successfully`));
+    const dir = '/public_html/' + file.substring(0, file.lastIndexOf('/'));
+    ftpConnection.mkdir(dir, true, (err) => {
+      if (err) console.log(err);
+      ftpConnection.put(file, `/public_html/${file}`, (err) => {
+        if (err) return reject({type: 'upload', file, err});
+        return resolve(console.log(`${file} was uploaded successfully`));
+      });
     });
   });
 }

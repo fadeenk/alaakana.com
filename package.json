@@ -1,0 +1,25 @@
+{
+  "name": "alaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d static -b gh-pages -t -s \"**/!(.idea|node_modules)/*\"",
+    "start": "docker run -dit myphp",
+    "help": "gh-pages --help",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadeenk/alaakana.com.git"
+  },
+  "author": "Fadee K",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fadeenk/alaakana.com/issues"
+  },
+  "homepage": "https://github.com/fadeenk/alaakana.com#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}

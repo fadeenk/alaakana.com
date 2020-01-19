@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "node deploy",
+    "deploy": "gh-pages -d static -b gh-pages -t",
     "start": "docker run -dit myphp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/fadeenk/alaakana.com#readme",
   "devDependencies": {
-    "ftp": "^0.3.10"
+    "ftp": "^0.3.10",
+    "gh-pages": "^2.2.0"
   }
 }

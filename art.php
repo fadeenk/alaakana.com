@@ -18,8 +18,8 @@
         <img src="http://ijbssnet.com//ijbss/public/images/book.jpg" class="float_l" style="width:120px; height:auto"/>
         <ol style="margin-left:120px;">
         <li><p>"The Effects of Breach of Information on Guests and Properties in the Hospitality Industry and Solutions",
-Puplished in International Journal of Business and Social Science on June 2017,
-click <a href="http://www.ijbict.com/vol-3-march-june-2017">here</a> to view the full issue.
+Puplished in International Journal of Business and Social Science on June 2017.
+<!-- click <a href="http://www.ijbict.com/vol-3-march-june-2017">here</a> to view the full issue. -->
 click <a href="http://docs.wixstatic.com/ugd/4f5010_16c53c5db2924a1f81addbda6e2762d0.pdf">here</a> to view the article.
         </p></li>
         <li><p>"Religious Tourism in Iraq, 1996-1998: An Assessment",

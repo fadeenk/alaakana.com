@@ -31,7 +31,8 @@
 			<img src="http://static.wixstatic.com/media/4f5010_e597166e20a246e890c038c3855cfd21.jpg_srb_p_283_367_75_22_0.50_1.20_0.00_jpg_srb" style="float:left;margin-right:10px;" width="160px" hieght="auto">
 		  		<h2>The International Journal of Business and Information Communications Technologies</h2>
 		  <p>I am happy to announce that I have been selected to be a member of the IJBICT (International Journal of Business and Information Communications Technologies). IJBICT is a quarterly peer-reviewed journal, which is published in cooperation with The American Society for Competitiveness. It is also considered as a reliable source for researchers and practitioners for the latest developments and trends in IT (Information Technology).</p>
-		  <p>My purpose of this letter is to inform you that I am willing to help you publish your noteworthy researches or articles on IJBICT website by advising you and answering your questions. For more information about this resourceful library, visit the following link: <a href="http://www.ijbict.com/">http://www.ijbict.com/</a> Click on “Editorial Board” tab to view its members.
+		  <p>My purpose of this letter is to inform you that I am willing to help you publish your noteworthy researches or articles on IJBICT website by advising you and answering your questions. 
+		  <!-- For more information about this resourceful library, visit the following link: <a href="http://www.ijbict.com/">http://www.ijbict.com/</a> Click on “Editorial Board” tab to view its members. -->
 		</p>
     	<h2>Introduction</h2>
     	  <a href="WPT.JPG" target="_blank"><img src="WPT_thumb.jpg" style="float:left;margin-right:10px;" width="160px" hieght="auto"></a>

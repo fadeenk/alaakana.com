@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "beforeDeploy": "read the readme" ,
     "deploy": "gh-pages -d static -b gh-pages -t",
-    "start": "docker run -dit myphp",
+    "start": "docker-compose up",
     "help": "gh-pages --help",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

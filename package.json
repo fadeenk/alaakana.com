@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d static -b gh-pages -t -s \"**/!(.idea|node_modules)/*\"",
-    "start": "docker run -dit myphp",
+//    "predeploy": "read the readme" 
+    "deploy": "gh-pages -d static -b gh-pages -t",
+    "start": "docker-compose up",
     "help": "gh-pages --help",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

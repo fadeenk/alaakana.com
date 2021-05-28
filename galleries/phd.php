@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <title>Dr. Alaa Kana: Ph.D.</title>
-  <?php include("../inc/meta.inc"); ?>
-  <?php include("../inc/style.inc"); ?>
-  <?php include("../inc/scripts.inc"); ?>
+  <?php include("inc/meta.inc"); ?>
+  <?php include("inc/style.inc"); ?>
+  <?php include("inc/scripts.inc"); ?>
 </head>
 <body>
   <div id="temp_header_wrapper">
-    <?php include("../inc/header.inc"); ?>
+    <?php include("inc/header.inc"); ?>
   </div>
   <div id="temp_main_top"></div>
   <div id="temp_main">

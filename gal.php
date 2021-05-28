@@ -58,7 +58,7 @@
         }
       ?>
       <div class="gallery_box <?php if ($key % 4 == 0) echo no_margin_right; ?>">
-        <a href="<?php echo $gal->thumb; ?>" rel="lightbox[portfolio]"><img src="<?php echo $gal->thumb; ?>" style="width:200px;"></a>
+        <a href="<?php echo $gal->source; ?>"><img src="<?php echo $gal->thumb; ?>" style="width:200px;"></a>
         <a href="<?php echo $gal->source; ?>"><?php echo $gal->title; ?></a>
       </div>
     <?php endforeach; ?>

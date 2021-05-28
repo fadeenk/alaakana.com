@@ -1,3 +1,10 @@
-Use Kitematic to get into the container
-run `./php2html . ./static -ed node_modules -ed .idea`
+execute `rm -rf ./static`
+Use docker cli to get into the container and run `./php2html . ./static -ed node_modules -ed .idea`
+execute
+```shell
+cp ./js ./static/js -r
+cp ./img ./static/img -r
+cp ./images ./static/images -r
+cp ./galleries/pix ./static/galleries/pix -r
+```
 execute deploy script

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-//    "predeploy": "read the readme" 
+    "beforeDeploy": "read the readme" ,
     "deploy": "gh-pages -d static -b gh-pages -t",
     "start": "docker-compose up",
     "help": "gh-pages --help",

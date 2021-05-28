@@ -3,25 +3,105 @@
 <head>
   <meta charset="UTF-8">
   <title>Coworkers at Gaslamp Hilton Hotel</title>
+  <meta name="keywords" content="work center, theme, piecemaker 3D image slider, 960, free templates, CSS, HTML" />
+<meta name="description" content="Work Center Theme is a free CSS template by templatemo.com for everyone. Feel free to use it for any purpose." />  <link href="/css/temp_style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/css/ddsmoothmenu.css" />
+<link href="/css/lightbox.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+<link href="/css/slider.css" rel="stylesheet" />
+  <script type="text/javascript" src="/js/swfobject/swfobject.js"></script>
+ <script type="text/javascript" src="/js/yetii-min.js"></script>
+ <script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
+<script src="/js/jquery-1.10.2.min.js"></script>
+<script src="/js/lightbox-2.6.min.js"></script>
+<script type="text/javascript">
+  var flashvars = {};
+  flashvars.cssSource = "css/piecemaker.css";
+  flashvars.xmlSource = "piecemaker.xml";
+	
+  var params = {};
+  params.play = "true";
+  params.menu = "false";
+  params.scale = "showall";
+  params.wmode = "transparent";
+  params.allowfullscreen = "true";
+  params.allowscriptaccess = "always";
+  params.allownetworking = "all";
   
-Warning: include(../inc/meta.inc): failed to open stream: No such file or directory in /var/www/html/galleries/coworkers.php on line 6
+  swfobject.embedSWF('piecemaker.swf', 'piecemaker', '960', '440', '10', null, flashvars,    
+  params, null);
 
-Warning: include(): Failed opening '../inc/meta.inc' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/galleries/coworkers.php on line 6
-  
-Warning: include(../inc/style.inc): failed to open stream: No such file or directory in /var/www/html/galleries/coworkers.php on line 7
+</script>
 
-Warning: include(): Failed opening '../inc/style.inc' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/galleries/coworkers.php on line 7
-  
-Warning: include(../inc/scripts.inc): failed to open stream: No such file or directory in /var/www/html/galleries/coworkers.php on line 8
+<script language="javascript" type="text/javascript">
+function clearText(field)
+{
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
 
-Warning: include(): Failed opening '../inc/scripts.inc' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/galleries/coworkers.php on line 8
+
+
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/ddsmoothmenu.js">
+
+/***********************************************
+* Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
+<script type="text/javascript">
+
+ddsmoothmenu.init({
+	mainmenuid: "temp_menu", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
+
+</script> 
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 </head>
 <body>
   <div id="temp_header_wrapper">
-    
-Warning: include(../inc/header.inc): failed to open stream: No such file or directory in /var/www/html/galleries/coworkers.php on line 12
-
-Warning: include(): Failed opening '../inc/header.inc' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/galleries/coworkers.php on line 12
+    <div id="temp_header">
+        <div id="site_title">
+        	<a href="" rel="nofollow">D<span>R.</span> A<span>LAA</span> K<span>ANA</span></a>
+        </div>
+        <div id="temp_menu" class="ddsmoothmenu">
+            <ul>
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/cv.html">CV</a></li>
+                <li><a href="/books.html">Books</a>
+                    <ul>
+                        <li><span class="top"></span><span class="bottom"></span></li>
+                        <li><a href="/books.html#0">Data Mining ...</a></li>
+                        <li><a href="/books.html#1">Diversity in ...</a></li>
+                        <li><a href="/books.html#2">Human Resources ...</a></li>
+                        <li><a href="/books.html#3">The Menu ...</a></li>
+			<li><a href="/books.html#3">Human Resources In...</a></li>
+                    </ul>
+                </li>
+                <li><a href="/art.html">Articles</a>
+                    <ul>
+                        <li><span class="top"></span><span class="bottom"></span></li>
+                        <li><a href="/art.html#1">English Articles</a></li>
+                        <li><a href="/art.html#2">Arabic Articles</a></li>
+                  	</ul>
+                </li>
+				<li><a href="/tut.html">Tutoring</a></li>
+                <li><a href="/gal.html">Galleries</a></li>
+				<li><a href="/sites.html">Sites</a></li>
+                <li><a href="/contact.html">Contact</a></li>
+            </ul>
+            <br style="clear: left" />
+        </div> <!-- end of temp_menu -->
+    </div> <!-- END of header -->
   </div>
   <div id="temp_main_top"></div>
   <div id="temp_main">

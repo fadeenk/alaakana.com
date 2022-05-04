@@ -32,6 +32,7 @@
       $gals = array();
       array_push(
         $gals,
+        new Gal("galleries/pix/goldParty/279777266_10159981890341165_5979533984845891057_n.jpg", "galleries/goldParty.php", "The Gold Key Awards party"),
         new Gal("galleries/pix/EMTLI/78946189_423100381902375_6068178079258247168_n.jpg", "galleries/EMTLI.php", "Equity-Minded Teaching and Learning institute (EMTLI)
 "),
         new Gal("galleries/pix/startalk2018/20180724_125056.jpg", "galleries/startalk2018.php", "STARTALK Program 2018"),

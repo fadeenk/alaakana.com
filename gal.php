@@ -32,6 +32,7 @@
       $gals = array();
       array_push(
         $gals,
+        new Gal("galleries/pix/1stConf/cert.png", "galleries/1stConf.php", "The 1st International Conference on Humanities and Social Sciences"),
         new Gal("galleries/pix/flamenco/279540474_531830368325595_5821420710054254205_n.jpg", "galleries/flamenco.php", "Team Member Annual Banquet 2021 (Flamenco night)"),
         new Gal("galleries/pix/goldParty/279777266_10159981890341165_5979533984845891057_n.jpg", "galleries/goldParty.php", "The Gold Key Awards party"),
         new Gal("galleries/pix/EMTLI/78946189_423100381902375_6068178079258247168_n.jpg", "galleries/EMTLI.php", "Equity-Minded Teaching and Learning institute (EMTLI)

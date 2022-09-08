@@ -5,6 +5,7 @@
                 <li><a href="/books.php">Books</a>
                     <ul>
                         <li><span class="top"></span><span class="bottom"></span></li>
+                        <li><a href="/books.php#6">Arabic Civilizations ...</a></li>
                         <li><a href="/books.php#0">Strategic Information ...</a></li>
                         <li><a href="/books.php#1">Data Mining ...</a></li>
                         <li><a href="/books.php#2">Diversity in ...</a></li>

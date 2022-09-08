@@ -7,4 +7,5 @@ cp ./img ./static/img -r
 cp ./images ./static/images -r
 cp ./galleries/pix ./static/galleries/pix -r
 ```
-execute deploy script
+commit and push
+execute deploy script `npm run deploy`

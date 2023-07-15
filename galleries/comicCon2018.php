@@ -30,7 +30,7 @@
          echo '<div class="cleaner"></div>';
         }
       ?>
-      <div class="gallery_box <?php if ($key % 4 == 0) echo no_margin_right; ?>">
+      <div class="gallery_box <?php if ($key % 4 == 0) echo "no_margin_right" ?>">
         <a href="<?php echo $path . "/" . $filename; ?>" rel="lightbox[portfolio]">
           <img src="<?php echo $path . "/" . $filename; ?>" style="width:200px;">
         </a>

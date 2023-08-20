@@ -52,6 +52,7 @@
 
     <br/><br/> 
     <div style="text-align: center;">
+      <a href="Harverd.PNG" target="_blank"><img class="homepageImg" src="Harverd.PNG"></a>
       <a href="1.jpg" target="_blank"><img class="homepageImg" src="1.jpg"></a>
       <a href="2.png" target="_blank"><img class="homepageImg" src="2.png"></a>
       <a href="33.JPG" target="_blank"><img class="homepageImg" src="33.JPG"></a>
